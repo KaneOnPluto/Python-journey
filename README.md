@@ -6,7 +6,11 @@ when I say by assistant, I mean, for asking module names, what does this keyword
 
 - terminalapi.py :-
   
-  - Simple terminal based api https fetch for weather api in json format based on city input from user.
-  - Solved problem / challenge faced :- 401 error, json debugging and pretty print formatting, https requests, nested structures, learning requests and json modules.
- 
+  - Simple terminal-based API client that fetches real-time weather data based on user input (city).
+  - Solved problems / challenges faced :- Learned HTTP requests, JSON parsing, nested data handling, and debugging API errors (401, invalid responses).
+    
+- CLI_todo.py
+
+  - Terminal-based To-Do application with add, delete, and view functions using a menu-driven system.
+  - Solved problems / challenges faced :- Learned list/dictionary data handling, loops, condition flow (match-case), input validation, indexing, and basic data structure operations (searching, traversal, Soon to be implemendted).
   
